@@ -1,0 +1,14 @@
+[
+  {
+    "id": 2,
+    "nome": "Paulo",
+    "email": "Paulo@gmail",
+    "senha": "$2b$10$yXQLXrZjMvcZr3cwsFXzh.cSZD/caPaphC39/jpJ1u3hKfxf5bXNa"
+  },
+  {
+    "id": 3,
+    "nome": "Pedro",
+    "email": "Pedro@gmail",
+    "senha": "$2b$10$iZw5u7liVL1X8Uicvjh/FubtzpSyYBk7r0KSYA13jxT3RmYVVhCDi"
+  }
+]
